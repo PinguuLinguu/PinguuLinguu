@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## I speak penguinese
-## Don't mind this repository, this is my first time using it T u T
+## Don't mind these repositories, this is my first time using it T u T
 <!--
 **PinguuLinguu/PinguuLinguu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
